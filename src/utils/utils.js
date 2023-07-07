@@ -1,5 +1,5 @@
 
-import { getApi } from '../utils/api';
+// import { getApi } from './Api';
 
 // let apiUrl = "https://eacp.energyaustralia.com.au/codingtest/api/v1/festivals";
 // let getData = getApi(apiUrl);

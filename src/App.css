@@ -40,12 +40,24 @@
   width:500px;
   margin:auto;
 }
-.record-label { 
+.ul-main {
   border: 1px solid #282c34;
   margin: 20px;
   list-style: none;
-  color: red;
+}
+.record-label { 
+  color: rgb(216, 75, 75);
   font-weight: bold;
+}
+.band-label { 
+  color: rgb(65, 93, 184);
+  font-weight: bold;
+  font-style: italic;
+}
+.festival-label { 
+  color: rgb(60, 167, 131);
+  font-weight: bold;
+  font-style: italic;
 }
 ul {
   /* list-style-type: none; */
